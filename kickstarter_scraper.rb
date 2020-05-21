@@ -8,4 +8,3 @@ def create_project_hash
   Kickstarter = Nokogiri::HTML(html)
   binding.py
 end
-
